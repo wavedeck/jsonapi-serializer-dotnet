@@ -5,9 +5,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>WavedeckLabs.JsonApiSerializer</PackageId>
-    <Version>0.1.0</Version>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Version>0.2.0</Version>
     <Authors>David Fally and Contributors</Authors>
     <Company>WavedeckLabs</Company>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+</ItemGroup>
 
 </Project>
