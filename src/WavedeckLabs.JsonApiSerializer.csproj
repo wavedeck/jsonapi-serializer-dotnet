@@ -7,7 +7,7 @@
     <PackageId>WavedeckLabs.JsonApiSerializer</PackageId>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>0.3.0</Version>
+    <Version>0.4.0</Version>
     <Authors>David Fally and Contributors</Authors>
     <Company>WavedeckLabs</Company>
   </PropertyGroup>
